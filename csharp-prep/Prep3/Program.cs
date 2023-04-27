@@ -17,9 +17,9 @@ class Program
 
 
             if ( guess > number)
-            { Console.Write("Lower"); }
+            { Console.WriteLine("Lower"); }
             else if ( guess < number)
-            { Console.Write("Higher");}
+            { Console.WriteLine("Higher");}
             else {
                 Console.Write("You guessed it!");
             }
