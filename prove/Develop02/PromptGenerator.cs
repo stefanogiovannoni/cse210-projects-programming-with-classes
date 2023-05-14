@@ -6,9 +6,9 @@ public class PromptGenerator
     _randomQuestions.Add("What was the best part of my day?" );
     _randomQuestions.Add("How did I see the hand of the Lord in my life today?" );
     _randomQuestions.Add("What was the strongest emotion I felt today?" );
-    _randomQuestions.Add("Who was the most interesting person I interacted with today?" );
-    _randomQuestions.Add("Who was the most interesting person I interacted with today?" );
-    _randomQuestions.Add("Who was the most interesting person I interacted with today?" );
+    _randomQuestions.Add("What did you learn today? " );
+    _randomQuestions.Add("What would you  have done different today?" );
+    _randomQuestions.Add("What do you want to remember from today?" );
     }
     
     public string GetQuestions(){
