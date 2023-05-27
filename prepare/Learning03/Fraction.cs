@@ -2,9 +2,10 @@ using System;
 
 public class Fraction 
 {
+    //attributes
     private int _top;
     private int _bottom;
-
+    //constructors
     public Fraction()
     {
         _top = 1;
