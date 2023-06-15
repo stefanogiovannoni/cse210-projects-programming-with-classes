@@ -14,8 +14,4 @@ public class MathAssignment : Assignment{
         return _textbookSection + _problems;
     }
 
-
-
-
-
 }
