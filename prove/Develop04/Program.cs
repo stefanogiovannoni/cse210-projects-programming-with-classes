@@ -3,7 +3,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("===== Welcome to the Activity Program =====");
+       
 
         while (true)
         {
@@ -11,8 +11,8 @@ public class Program
             Console.WriteLine("1. Breathing");
             Console.WriteLine("2. Reflection");
             Console.WriteLine("3. Listing");
-            Console.WriteLine("4. Quit");
-            Console.Write("Enter your choice: ");
+            Console.WriteLine("4. Quit"); 
+            Console.Write("Enter a number from the options: ");
 
             int choice = Convert.ToInt32(Console.ReadLine());
 
